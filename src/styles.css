@@ -1,0 +1,38 @@
+.cm-wrapper-header {
+    background: var(--main-green-color);
+    height: 48px;
+    padding: 8px 16px;
+    color: white;
+}
+
+.cm-wrapper-header .title {
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 24px;
+}
+
+.cm-wrapper-header .search-input {
+    border: none;
+    width: 60%;
+    height: 100%;
+    color: #c9e9d6;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 20px;
+}
+
+.cm-wrapper-header .search-input input {
+    background: none;
+}
+
+.cm-wrapper-header .notifications-badge sup {
+    background: none;
+    border: none;
+    color: white;
+}
+
+.cm-wrapper-header .account-settings {
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 24px;
+}
